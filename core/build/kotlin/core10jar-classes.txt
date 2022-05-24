@@ -1,0 +1,1 @@
+/home/vincent/AndroidStudioProjects/SnakeKotlin/core/build/classes/java/main/com/vincent/snakegame/SnakeGame.class:/home/vincent/AndroidStudioProjects/SnakeKotlin/core/build/classes/kotlin/main/com/vincent/snakegame/Direction.class:/home/vincent/AndroidStudioProjects/SnakeKotlin/core/build/classes/kotlin/main/com/vincent/snakegame/SnakeGameKT.class
